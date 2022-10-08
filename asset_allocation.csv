@@ -1,0 +1,13 @@
+Asset Type,Asset,2025,2030,2035,2040,2045,2050,2055,2060,2065,2070
+Equity,U.S. Large Cap Growth,12,16,18,21,24,27,27,27,27,27
+Equity,U.S. Large Cap Value,15,18,20,24,27,30,30,30,30,30
+Equity,U.S. Small Cap Growth,1,2,2,2,3,3,3,3,3,3
+Equity,U.S. Small Cap Value,1,2,2,2,3,3,3,3,3,3
+Equity,Int. Dev. Equity,10,13,15,17,19,22,22,22,22,22
+Equity,Emerging Markets,4,6,7,8,9,10,10,10,10,10
+Fixed Income,U.S. Government,16,13,11,7,4,1,1,1,1,1
+Fixed Income,U.S. Mortgages,13,10,8,6,3,1,1,1,1,1
+Fixed Income,U.S. Corporates,16,13,11,8,4,1,1,1,1,1
+Fixed Income,U.S. High Yield,3,3,2,2,1,0,0,0,0,0
+Fixed Income,Int. Fixed Income,7,2,2,1,1,0,0,0,0,0
+Cash,Cash,2,2,2,2,2,2,2,2,2,2
