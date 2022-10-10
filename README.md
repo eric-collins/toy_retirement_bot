@@ -10,6 +10,6 @@ Pyinstaller commmand used:
 ```python -m PyInstaller -F --add-data "asset_allocation.csv;data" --add-data "life_expect.csv;data" --hidden-import 'Retire_Calc' --hidden-import 'helpers' --onefile --noconsole  GUI.py```
 
 
-![screen1](screen1.jpeg)
+![screen1](screen1.png)
 
-![screen2](screen2.jpeg)
+![screen2](screen2.png)
